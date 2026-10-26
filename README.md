@@ -10,7 +10,7 @@ MicroPy is a small, Turing-complete language for studying learned program execut
 
 ## Release status
 
-This initial release contains the standalone **MicroPy reference-interpreter notebook**. Training code, data-generation pipelines, datasets, and model checkpoints are not included in this release.
+This initial release contains the standalone **MicroPy reference-interpreter notebook**. **The next release will include training code and additional materials.**
 
 ## Installation
 
